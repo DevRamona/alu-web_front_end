@@ -12,8 +12,8 @@ function createClassRoom(numbersOfStudents) {
   return students;
 }
 
-// Closure classRoom with 10 students
 const classRoom = createClassRoom(10);
 
 console.log(classRoom[0]());
 console.log(classRoom[9]());
+console.log(classRoom[3]());

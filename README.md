@@ -10,3 +10,4 @@ Please find below the lists of projects completed in this repository.
 - Forms
 - Flexbox
 - Bootstrap
+- Accessibility

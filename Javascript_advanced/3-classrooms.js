@@ -3,6 +3,7 @@ function createClassRoom(numbersOfStudents) {
     return () => seat;
   }
   const students = [];
+  console.log(students);
 
   for (let i = 0; i < numbersOfStudents; i++) {
     students.push(studentSeat(i + 1));
